@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 @file:Suppress("DEPRECATION")
-package org.traccar.manager
+package app.datatrak.manager
 
 import android.Manifest
 import android.annotation.SuppressLint
